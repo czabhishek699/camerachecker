@@ -16,3 +16,22 @@ button {
     cursor: pointer;
     margin-top: 10px;
 }
+body {
+    text-align: center;
+}
+
+video {
+    width: 100%;
+    max-width: 640px;
+    transform: rotate(180deg); /* Add this line to rotate the video 180 degrees */
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
